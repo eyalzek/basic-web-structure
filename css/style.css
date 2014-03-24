@@ -1,0 +1,42 @@
+.foo
+{
+	margin: 0 auto;
+	width: 600px;
+}
+
+div > div
+{
+	border: 1px solid black;
+	border-radius: 30px;
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin: 20px;
+	z-index: 999;
+}
+
+.overlay
+{
+	opacity: 0.5;
+	z-index: 998;
+}
+
+.one
+{
+	background-color: yellow;
+}
+
+.two
+{
+	background-color: green;
+}
+
+.three
+{
+	background-color: blue;
+}
+
+.four
+{
+	background-color: red;
+}
